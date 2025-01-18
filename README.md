@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f521377a-6e3f-452b-bcb4-f68000fb3744)# Personal Portfolio
-
 Welcome to my personal portfolio project! This is a fully revamped version of my portfolio, originally created with static HTML and CSS, now rebuilt using React.js for a dynamic and modern experience.
 Live website link : https://muralidharan.netlify.app
 
