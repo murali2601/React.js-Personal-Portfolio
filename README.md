@@ -56,9 +56,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - React.js documentation
 - CSS Tricks and other web development resources
 
-## Contact
-If you have any questions or want to connect, feel free to reach out:
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub](https://github.com/your-username)
 
